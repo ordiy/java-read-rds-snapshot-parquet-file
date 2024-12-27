@@ -1,0 +1,42 @@
+# Ignore IntelliJ IDEA configuration files
+.idea/
+*.iml
+
+# Ignore Maven/Gradle build directories
+target/
+out/
+build/
+
+# Ignore log files
+*.log
+log/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore temporary files
+*.tmp
+*.swp
+*.bak
+*.old
+*.orig
+
+# Ignore dependency directories
+/node_modules/
+/dist/
+
+# Ignore generated files
+*.class
+*.jar
+*.war
+*.ear
+# 忽略任何目录中的 target 文件夹
+**/target/
+./tmp_dir
+./tmp_dir/**
+
+# Ignore coverage reports
+coverage/
+*.lcov
+
