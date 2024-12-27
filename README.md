@@ -4,7 +4,7 @@ Read RDS snapshot  parquet file , and send to kafka MQ.
 such as this format:
 
 ```
-part-00002-b11dc85b-9e64-4fe5-9d04-04840583ad8a-c000.gz.parquet
+part-00002-***-***-4fe5***-c000.gz.parquet
 ```
 
 # build
